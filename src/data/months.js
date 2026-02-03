@@ -6,7 +6,7 @@ export const timelineData = [
         year: "2025",
         title: "Happy Birthday!",
         description: "The journey begins on this special day. Celebrating YOU! 🎂✨",
-        image: "/chikku_1.jpeg",
+        image: "/chikku/chikku_1.jpeg",
         isBirthday: true,
         icon: "🎂"
     },
@@ -17,7 +17,7 @@ export const timelineData = [
         year: "2025",
         title: "New Beginnings",
         description: "Spring blooms and fresh starts awaiting.",
-        image: "/chikku_2.jpeg",
+        image: "/chikku/chikku_2.jpeg",
         icon: "🌱"
     },
     {
@@ -27,7 +27,7 @@ export const timelineData = [
         year: "2025",
         title: "Blooming Season",
         description: "Colors of life painting the world.",
-        image: "/chikku_3.jpeg",
+        image: "/chikku/chikku_3.jpeg",
         icon: "🌸"
     },
     {
@@ -37,7 +37,7 @@ export const timelineData = [
         year: "2025",
         title: "Adventure Awaits",
         description: "Exploring new paths and memories.",
-        image: "/chikku_4.jpeg",
+        image: "/chikku/chikku_4.jpeg",
         icon: "✈️"
     },
     {
@@ -47,7 +47,7 @@ export const timelineData = [
         year: "2025",
         title: "Sunny Days",
         description: "Warmth, laughter, and endless skies.",
-        image: "/chikku_5.jpeg",
+        image: "/chikku/chikku_5.jpeg",
         icon: "☀️"
     },
     {
@@ -57,7 +57,7 @@ export const timelineData = [
         year: "2025",
         title: "Mid-Year Joy",
         description: "Celebrating half a year of greatness.",
-        image: "/chikku_6.jpeg",
+        image: "/chikku/chikku_6.jpeg",
         icon: "🎆"
     },
     {
@@ -67,7 +67,7 @@ export const timelineData = [
         year: "2025",
         title: "Golden Hour",
         description: "Shining bright like the summer sun.",
-        image: "/chikku_7.jpeg",
+        image: "/chikku/chikku_7.jpeg",
         icon: "🦁"
     },
     {
@@ -77,7 +77,7 @@ export const timelineData = [
         year: "2025",
         title: "Cozy Vibes",
         description: "Welcoming the change of seasons.",
-        image: "/chikku_9.jpeg",
+        image: "/chikku/chikku_9.jpeg",
         icon: "🍂"
     },
     {
@@ -87,7 +87,7 @@ export const timelineData = [
         year: "2025",
         title: "Magic & Mystery",
         description: "Spooky fun and sweet treats.",
-        image: "/chikku_8.jpeg",
+        image: "/chikku/chikku_8.jpeg",
         icon: "🎃"
     },
     {
@@ -97,7 +97,7 @@ export const timelineData = [
         year: "2025",
         title: "Gratitude",
         description: "Giving thanks for all the blessings.",
-        image: "/chikku_10.jpeg",
+        image: "/chikku/chikku_10.jpeg",
         icon: "🦃"
     },
     {
@@ -107,7 +107,7 @@ export const timelineData = [
         year: "2025",
         title: "Winter Wonderland",
         description: "Festive lights and holiday cheer.",
-        image: "/chikku_11.jpeg",
+        image: "/chikku/chikku_11.jpeg",
         icon: "❄️"
     },
     {
@@ -117,7 +117,7 @@ export const timelineData = [
         year: "2026",
         title: "New Year",
         description: "A fresh chapter begins.",
-        image: "/chikku_12.jpeg",
+        image: "/chikku/chikku_12.jpeg",
         icon: "🥂"
     },
     {
